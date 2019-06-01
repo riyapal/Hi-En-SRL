@@ -1,4 +1,4 @@
-# Hi-En-SRL
+# Hindi-English Code-Mixed Tweets labelled with Semantic Roles.
 
 
 Get pre-processed tweets from https://github.com/irshadbhat/HI-EN-PTB (tokenised and labelled with Paninian dependency labels.)
